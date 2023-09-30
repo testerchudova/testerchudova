@@ -2,7 +2,7 @@
 
 ![600x0](http://img.yandex.net/i/logo95x37x8.png)
 
-{{iframe src="https://www.youtube.com/embed/1yELlB39TvY" width=700px height=600px frameborder=0 scrolling=no}}
+{{iframe src="https://www.youtube.com/embed/1yELlB39TvY"}}
 
 
 
