@@ -8,7 +8,20 @@
 <iframe id="youtube_1yELlB39TvY_388" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" title="Оформляем профиль на GitHub с помощью Profile Readme" width="640" height="360" src="https://www.youtube.com/embed/1yELlB39TvY"></iframe>
 
 
-
+<table>
+    <tr>
+        <th>Заголовок 1</th>
+        <th>Заголовок 2</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1.1</td>
+        <td>Ячейка 2.1</td>
+    </tr>
+    <tr>
+        <td>Ячейка 1.2</td>
+        <td>Ячейка 2.2</td>
+    </tr>
+</table>
 
 
 
