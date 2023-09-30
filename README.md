@@ -1,4 +1,4 @@
-[![Header](https://github.com/testerchudova/testerchudova/main/assets/Group 1.jpg)]
+[![Header](https://github.com/testerchudova/testerchudova/main/assets/Group_1.jpg)]
 
 About me
 
