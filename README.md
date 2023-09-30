@@ -1,4 +1,4 @@
-(https://github.com/testerchudova/testerchudova/blob/main/assets/Group%201.jpg)
+https://github.com/testerchudova/testerchudova/blob/main/assets/Group%201.jpg
 
 About me
 
