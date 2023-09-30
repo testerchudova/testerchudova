@@ -1,4 +1,4 @@
-60x20:https://raw.githubusercontent.com/testerchudova/testerchudova/main/assets/Group_1.jpg
+600x200:https://raw.githubusercontent.com/testerchudova/testerchudova/main/assets/Group_1.jpg
 
 
 About me
