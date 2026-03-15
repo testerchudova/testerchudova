@@ -9,13 +9,4 @@
 
 
 
-    </tr>
-</table>
-
-
-
-About me
-
-I’m currently learning ...
-
-💬Follow Me
+  
