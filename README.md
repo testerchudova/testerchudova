@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/testerchudova/testerchudova/main/assets/Group_1.jpg" alt="Header">
-</p>
 
 <h1 align="center">Привет, я Катя</h1>
 <h3 align="center">QA Automation Engineer | Java | UI, API, Mobile</h3>
